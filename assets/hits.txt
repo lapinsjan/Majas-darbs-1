@@ -1,0 +1,17 @@
+1 - Video starts on page load, on resize, ideally crop sides. Fits screen height combined with 07
+2 - Centered over video, tries to be 50vw, but has reasonable limits on max and min
+3 - Title box goes over card
+4 - Header has equal padding on both sides
+5 - Links aligned to right from logo
+6 - Link has hover anim, where other 2 diagonal sides round and smooth, wave-like transition to sunshine color
+7 - Just to catch the attention, infinite looping animation of gradient change
+8 - Title goes over image, has box
+9 - image container has prefered height 80% of card, unless...
+10 - ...paragraph needs more space
+11 - Tags container has fixed height
+12 - Footer accent has 100% of screen width, but remove at certain screen width (4k for example)
+13 - Smooth glow-up on hover 
+14 - Links disapear on m
+15 - Video no longer 100% of height 
+16 - Grid items shrink in cols and size if needed.
+17 - Fun hover/click anim for mobile burger

@@ -1,0 +1,52 @@
+.banner{
+    width: 100%;
+    height: auto;
+    position: relative;
+    z-index: -1;
+    
+    video {
+        object-fit: cover;
+    }
+}
+
+.under-banner {
+    height: 8px;
+    background: rgb(227,240,58);
+    background: linear-gradient(90deg, rgba(227,240,58,1) 0%, rgba(144,48,13,1) 48%, rgba(252,69,88,1) 100%);
+    
+}
+
+
+.banner-head {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    max-width: 500px;
+    width: 50vw;
+    min-width: 300px;
+    background-color: rgba(0, 0, 0, 0.493);
+    color: white;
+    padding-top: 50px;
+    border: 1px solid rgba(236, 252, 11, 0.719);
+    text-align: justify;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.banner-head h1 {
+    position: absolute;
+    width: 150px;
+    left: 50%;
+    top: 0;
+    transform: translate(-50%,-50%);
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    color: yellow;
+    text-align: center;
+}

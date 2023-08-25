@@ -1,0 +1,8 @@
+Accents
+#fecb00 - sunshine
+#97089e - dawn
+#0e0d0f - night
+#25b711 - jungle
+
+Text
+#ffffff - bodyText
